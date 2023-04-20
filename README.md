@@ -1,5 +1,9 @@
 # **Endpoints FabricaNeeds**
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> FabricaNeedsBranch
 ## Criação e teste API REST:
 
 <br>
